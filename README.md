@@ -62,6 +62,7 @@ Outside of work, I enjoy hiking and exploring new places, which helps me reset, 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+    <img src="https://img.shields.io/badge/A/B_Testing-E34F26?style=flat&logo=A/B-testing&logoColor=white" alt="A/B Testing">
 </p>
 
 #### Business Intelligence & Analytics
